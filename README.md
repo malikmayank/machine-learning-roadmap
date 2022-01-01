@@ -1,4 +1,10 @@
 # machine-learning-roadmap
+This repository is your one stop guide for becoming a machine learning engineer. Over time, I'll add a complete step-by-step roadmap for you to follow to becoming a machine leearning engineer. 
+
+First, let's start with one of the hottest topics in ML - Deep Learning. 
+
+## Deep Learning
+----------------
 
 Understanding Deep Learning is much easier if your a conceptual grasp over the following topics: 
 * AI Theory 
@@ -8,7 +14,7 @@ Understanding Deep Learning is much easier if your a conceptual grasp over the f
 * Probability and Statistics, and of course,  
 * a programming language, preferrably Python 
 
-The list of resources below will get you started with Deep Learning. Over time, I'll add a complete step-by-step roadmap for you to follow to becoming a deep leearning engineer. 
+The list of resources below will get you started with Deep Learning. 
 
 1. Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville. 
 This book introduces a broad range of topics in deep learning.  The authors include the pioneers of deep learning, Yoshua Bengio is one of the three godfathers of deep learning, Ian Goodfellow is popular for his creation of Generative adversarial Networks (GANs). The text offers mathematical and conceptual background, covering relevant concepts in linear algebra, probability theory and information theory, numerical computation, and machine learning. It describes deep learning techniques used by practitioners in industry, including deep feedforward networks, regularization, optimization algorithms, convolutional networks, sequence modeling, and practical methodology. The book is available for free in HTML format [here](https://www.deeplearningbook.org/) 
