@@ -4,7 +4,6 @@ This repository is your one stop guide for becoming a machine learning engineer.
 First, let's start with one of the hottest topics in ML - Deep Learning. 
 
 ## Deep Learning
-----------------
 
 Understanding Deep Learning is much easier if your a conceptual grasp over the following topics: 
 * AI Theory 
